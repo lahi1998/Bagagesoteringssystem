@@ -1,0 +1,15 @@
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\bin\Debug\net6.0\BagageSortering.exe
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\bin\Debug\net6.0\BagageSortering.deps.json
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\bin\Debug\net6.0\BagageSortering.runtimeconfig.json
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\bin\Debug\net6.0\BagageSortering.dll
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\bin\Debug\net6.0\BagageSortering.pdb
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\obj\Debug\net6.0\BagageSortering.csproj.AssemblyReference.cache
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\obj\Debug\net6.0\BagageSortering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\obj\Debug\net6.0\BagageSortering.AssemblyInfoInputs.cache
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\obj\Debug\net6.0\BagageSortering.AssemblyInfo.cs
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\obj\Debug\net6.0\BagageSortering.csproj.CoreCompileInputs.cache
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\obj\Debug\net6.0\BagageSortering.dll
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\obj\Debug\net6.0\refint\BagageSortering.dll
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\obj\Debug\net6.0\BagageSortering.pdb
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\obj\Debug\net6.0\BagageSortering.genruntimeconfig.cache
+C:\Users\zbclshi\source\repos\BagageSortering\BagageSortering\obj\Debug\net6.0\ref\BagageSortering.dll
